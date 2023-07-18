@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @{
+        IHttpContextAccessor _Accessor = new HttpContextAccessor();
+        var username = _Accessor.HttpContext.Session.GetString("Username");
+        if (username.Equals("admin@estore.com"))
+        {
+            <h1 class="display-4">Welcome to ADMIN dashboard</h1>
+        }
+        else
+        {
+            <h1 class="display-4">Welcome to User dashboard</h1>
+        }
+    }
+    <a asp-controller="Login" asp-action="Index">Log out</a>.</p>
+</div>
