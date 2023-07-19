@@ -12,12 +12,12 @@ namespace eStore.Controllers
 {
     public class OrderDetailsController : Controller
     {
-        private readonly AssSalesContext _context;
+        private readonly AssSalesContext _context=new AssSalesContext();
         private readonly IOrderDetailRepository _orderDetailRepository;
-        public OrderDetailsController(AssSalesContext context)
+        public OrderDetailsController(IOrderDetailRepository orderDetailRepository)
         {
-            _context = context;
-            _orderDetailRepository = new OrderDetailRepository();
+            //_context = context;
+            _orderDetailRepository = orderDetailRepository;
         }
 
         // GET: OrderDetails
@@ -30,7 +30,7 @@ namespace eStore.Controllers
         // GET: OrderDetails/Details/5
         public async Task<IActionResult> Details(int id, int proId)
         {
-            if (id == null || _context.OrderDetails == null)
+            if (id == null)
             {
                 return NotFound();
             }
@@ -116,7 +116,7 @@ namespace eStore.Controllers
         // GET: OrderDetails/Delete/5
         public async Task<IActionResult> Delete(int id, int proId)
         {
-            if (id == null || _context.OrderDetails == null)
+            if (id == null)
             {
                 return NotFound();
             }

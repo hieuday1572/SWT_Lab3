@@ -1,4 +1,5 @@
 using BusinessObject;
+using DataAccess.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using System;
@@ -11,6 +12,7 @@ builder.Services.AddDbContext<AssSalesContext>(options => options.UseSqlServer(b
 builder.Services.AddSession(options => {
     options.IdleTimeout = TimeSpan.FromMinutes(1200);//You can set Time   
 });
+builder.Services.AddScoped<IOrderDetailRepository, OrderDetailRepository>();
 builder.Services.AddMvc();
 builder.Services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 var app = builder.Build();
