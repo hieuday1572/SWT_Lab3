@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Downloads\\Ass03Solution\\BusinessObject\\BusinessObject.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Downloads\\Ass03Solution\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Ass03Solution\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\Ass03Solution\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\Ass03Solution\\BusinessObject\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
