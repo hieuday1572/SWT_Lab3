@@ -67,14 +67,8 @@ namespace eStore.Controllers
                     return View(orderDetail);
                 }
             }
-            if (!ModelState.IsValid)
-            {
                 _orderDetailRepository.Create(orderDetail);
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["OrderId"] = new SelectList(_context.Orders, "OrderId", "OrderId", orderDetail.OrderId);
-            ViewData["ProductId"] = new SelectList(_context.Products, "ProductId", "ProductName", orderDetail.ProductId);
-            return View(orderDetail);
 
         }
 
@@ -101,13 +95,8 @@ namespace eStore.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("OrderId,ProductId,UnitPrice,Quantity,Discount")] OrderDetail orderDetail)
+        public async Task<IActionResult> Edit([Bind("OrderId,ProductId,UnitPrice,Quantity,Discount")] OrderDetail orderDetail)
         {
-            if (id != orderDetail.OrderId)
-            {
-                return NotFound();
-            }
-
                     _orderDetailRepository.Update(orderDetail);
                 return RedirectToAction(nameof(Index));
             }
@@ -116,10 +105,6 @@ namespace eStore.Controllers
         // GET: OrderDetails/Delete/5
         public async Task<IActionResult> Delete(int id, int proId)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
 
             var orderDetail = _orderDetailRepository.GetOrderDetail(id, proId);
             if (orderDetail == null)
@@ -135,22 +120,17 @@ namespace eStore.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id, int proId)
         {
-            if (_context.OrderDetails == null)
-            {
-                return Problem("Entity set 'AssSalesContext.OrderDetails'  is null.");
-            }
             var orderDetail = _orderDetailRepository.GetOrderDetail(id, proId);
             if (orderDetail != null)
             {
                 _orderDetailRepository.Delete(orderDetail.OrderId, orderDetail.ProductId);
             }
+            else
+            {
+                return NotFound();
+            }
             
             return RedirectToAction(nameof(Index));
-        }
-
-        private bool OrderDetailExists(int id)
-        {
-          return (_context.OrderDetails?.Any(e => e.OrderId == id)).GetValueOrDefault();
         }
     }
 }
