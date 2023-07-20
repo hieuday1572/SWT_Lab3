@@ -12,11 +12,13 @@ namespace eStore.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IHttpContextAccessor _Accessor;
-        private readonly IMemberRepository _member=new MemberRepository();
-        public HomeController(ILogger<HomeController> logger, IHttpContextAccessor Accessor)
+        private readonly IMemberRepository _member;
+
+        public HomeController(ILogger<HomeController> logger, IHttpContextAccessor Accessor, IMemberRepository member)
         {
             _logger = logger;
             _Accessor = Accessor;
+            _member = member;
         }
 
         public IActionResult Index()
