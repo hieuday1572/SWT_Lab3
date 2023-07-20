@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\bangc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bangc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -76,24 +76,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\bangc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bangc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -109,8 +109,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -162,24 +162,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\eStore\\eStore.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\eStore\\eStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\eStore\\eStore.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\eStore\\eStore.csproj",
         "projectName": "eStore",
-        "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\eStore\\eStore.csproj",
-        "packagesPath": "C:\\Users\\bangc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\eStore\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\eStore\\eStore.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\eStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bangc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -189,18 +189,18 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj"
               },
-              "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -275,24 +275,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\bangc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\TestProject\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bangc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -308,14 +308,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj"
               },
-              "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\eStore\\eStore.csproj": {
-                "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\eStore\\eStore.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\eStore\\eStore.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\eStore\\eStore.csproj"
               }
             }
           }
@@ -371,7 +371,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

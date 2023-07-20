@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\bangc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bangc\\OneDrive\\Documents\\GitHub\\SWT_Lab3\\BusinessObject\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\SWT_Lab3\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bangc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

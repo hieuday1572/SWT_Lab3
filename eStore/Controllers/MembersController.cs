@@ -12,20 +12,18 @@ namespace eStore.Controllers
 {
     public class MembersController : Controller
     {
-        private readonly IMemberRepository memeberRepository;
-        public MembersController(AssSalesContext context)
+        private readonly IMemberRepository _memeberRepository;
+        private readonly AssSalesContext _context = new AssSalesContext();
+        public MembersController(AssSalesContext context, IMemberRepository memberRepositoryy)
         {
-            memeberRepository = new MemberRepository();
-        }
-        public MembersController(IMemberRepository memberRepositoryy)
-        {
-            memeberRepository = memberRepositoryy;
+            _memeberRepository = memberRepositoryy;
+
         }
 
         // GET: Members
         public async Task<IActionResult> Index()
         {
-            IEnumerable<Member> members= memeberRepository.GetMembers();
+            IEnumerable<Member> members= _memeberRepository.GetMembers();
             return View(members); 
 
         }
@@ -38,7 +36,7 @@ namespace eStore.Controllers
                 return NotFound();
             }
 
-            var member = memeberRepository.GetMember(email);
+            var member = _memeberRepository.GetMember(email);
             if (member == null)
             {
                 return NotFound();
@@ -62,7 +60,7 @@ namespace eStore.Controllers
         {
             if (ModelState.IsValid)
             {
-                memeberRepository.Create(member);
+                _memeberRepository.Create(member);
                 return RedirectToAction(nameof(Index));
             }
             return View(member);
@@ -76,7 +74,7 @@ namespace eStore.Controllers
                 return NotFound();
             }
 
-            var member = memeberRepository.GetMember(email);
+            var member = _memeberRepository.GetMember(email);
             if (member == null)
             {
                 return NotFound();
@@ -95,7 +93,7 @@ namespace eStore.Controllers
             {
                 try
                 {
-                    memeberRepository.Update(member);
+                    _memeberRepository.Update(member);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -113,7 +111,7 @@ namespace eStore.Controllers
                 return NotFound();
             }
 
-            var member = memeberRepository.GetMember(email);
+            var member = _memeberRepository.GetMember(email);
             if (member == null)
             {
                 return NotFound();
@@ -127,10 +125,10 @@ namespace eStore.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(string email)
         {
-            var member = memeberRepository.GetMember(email);
+            var member = _memeberRepository.GetMember(email);
             if (member != null)
             {
-                memeberRepository.Delete(member.Email);
+                _memeberRepository.Delete(member.Email);
             }
             
             return RedirectToAction(nameof(Index));
