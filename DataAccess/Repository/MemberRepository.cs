@@ -25,6 +25,11 @@ namespace DataAccess.Repository
             return MemberDAO.Instance.GetMemberByemail(email);
         }
 
+        public void GetMember(int memberId)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<Member> GetMembers() => MemberDAO.Instance.GetMemberList();
 
         public void Update(Member member)

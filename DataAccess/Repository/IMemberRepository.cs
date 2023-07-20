@@ -18,5 +18,6 @@ namespace DataAccess.Repository
         void Delete(string email);
 
         Member GetMember(string email);
+        void GetMember(int memberId);
     }
 }

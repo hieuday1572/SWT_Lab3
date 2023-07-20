@@ -2368,6 +2368,7 @@
           "Microsoft.Extensions.Configuration": "6.0.0",
           "Microsoft.Extensions.Configuration.Json": "6.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.14",
+          "Moq": "4.18.4",
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {

@@ -17,6 +17,10 @@ namespace eStore.Controllers
         {
             memeberRepository = new MemberRepository();
         }
+        public MembersController(IMemberRepository memberRepositoryy)
+        {
+            memeberRepository = memberRepositoryy;
+        }
 
         // GET: Members
         public async Task<IActionResult> Index()
