@@ -9,129 +9,129 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = eStore
 build_property.RootNamespace = eStore
-build_property.ProjectDir = C:\Users\ADMIN\OneDrive\Desktop\SWT_Lab3\eStore\
+build_property.ProjectDir = C:\Users\bangc\OneDrive\Documents\GitHub\SWT_Lab3\eStore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ADMIN\OneDrive\Desktop\SWT_Lab3\eStore
+build_property.MSBuildProjectDirectory = C:\Users\bangc\OneDrive\Documents\GitHub\SWT_Lab3\eStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Home/Index.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Home/Privacy.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Home/Profile.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Home/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Login/Index.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Members/Create.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Members/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Members/Delete.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Members/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Members/Details.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Members/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Members/Edit.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Members/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Members/Index.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Members/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/OrderDetails/Create.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/OrderDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/OrderDetails/Delete.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/OrderDetails/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/OrderDetails/Details.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/OrderDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/OrderDetails/Edit.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/OrderDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/OrderDetails/Index.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/OrderDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Orders/Create.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Orders/Delete.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Orders/Details.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Orders/Edit.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Orders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Orders/Index.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Orders/UserOrder.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Orders/UserOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFVzZXJPcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Products/Create.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Products/Delete.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Products/Details.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Products/Edit.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Products/Index.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Shared/Error.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/_ViewImports.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/_ViewStart.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/SWT_Lab3/eStore/Views/Shared/_Layout.cshtml]
+[C:/Users/bangc/OneDrive/Documents/GitHub/SWT_Lab3/eStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mr89pp05oj
