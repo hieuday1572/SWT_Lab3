@@ -14,10 +14,17 @@ namespace eStore.Controllers
     {
         private readonly IMemberRepository _memeberRepository;
         private readonly AssSalesContext _context = new AssSalesContext();
+        private IMemberRepository @object;
+
         public MembersController(AssSalesContext context, IMemberRepository memberRepositoryy)
         {
             _memeberRepository = memberRepositoryy;
 
+        }
+
+        public MembersController(IMemberRepository @object)
+        {
+            this.@object = @object;
         }
 
         // GET: Members
